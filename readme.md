@@ -1,4 +1,4 @@
-Olá, Bem vindo ao meu projeto da pagina Alura Fokus 2.0.
+Olá, Bem vindo ao meu projeto da pagina VidFlow.
 
 O projeto foi desenvolvido a partir do curso da Alura de JavaScript: consumindo e tratando dados de uma API.
 
